@@ -1,0 +1,42 @@
+Fake Profile Identification in Social Network using Machine Learning and NLP
+
+Machine Learning, Natural Language Processing, Classification
+
+
+
+IEEE Conference on Machine Learning and IOT,Issue Date:12.May.2022
+
+
+
+Fake_Profile_Identification
+
+
+fake_profile_identification
+
+
+
+profile_identification_type
+
+prof_idno
+name
+screen_name
+statuses_count
+followers_count
+friends_count
+created_at
+location
+default_profile
+prf_image_url
+prf_banner_url
+prf_bgimg_https
+prf_text_color
+profile_image_url_https
+prf_bg_title
+profile_background_image_url
+description
+Prf_updated
+Prediction
+
+
+
+
